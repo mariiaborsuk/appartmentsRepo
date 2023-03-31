@@ -1,0 +1,13 @@
+{
+  "appartments": [
+    {
+      "zipcode": "2366JM",
+      "city": "Nevegein",
+      "size": "80",
+      "price": "750",
+      "condition": "plain",
+      "type": "appartment",
+      "id": 3
+    }
+  ]
+}

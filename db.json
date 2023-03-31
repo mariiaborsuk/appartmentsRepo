@@ -1,0 +1,191 @@
+{
+  "appartments": [
+    {
+      "city": "Utrecht",
+      "size": "70",
+      "price": "1000",
+      "condition": "equipped",
+      "type": "appartment",
+      "id": 2
+    },
+    {
+      "zipcode": "5667HG",
+      "city": "Den HAgue",
+      "size": "120",
+      "price": "1200",
+      "condition": "upholstered",
+      "type": "house",
+      "id": 3
+    },
+    {
+      "zipcode": "3435TG",
+      "city": "Utrecht",
+      "size": "40",
+      "price": "1000",
+      "condition": "equipped",
+      "type": "studio",
+      "id": 4
+    },
+    {
+      "zipcode": "2356JG",
+      "city": "Amersfort",
+      "size": "100",
+      "price": "1500",
+      "condition": "fully-furnished",
+      "type": "house",
+      "id": 5
+    },
+    {
+      "zipcode": "5678FR",
+      "city": "Woerden",
+      "size": "150",
+      "price": "1200",
+      "condition": "upholstered",
+      "type": "appartment",
+      "id": 6
+    },
+    {
+      "city": "Roterdam",
+      "size": "90",
+      "price": "1400",
+      "condition": "fully-furnished",
+      "type": "house",
+      "id": 7
+    },
+    {
+      "zipcode": "TR7865",
+      "city": "Amsterdam",
+      "size": "40",
+      "price": "1560",
+      "condition": "fully-furnished",
+      "type": "appartment",
+      "id": 8
+    },
+    {
+      "zipcode": "RM3425",
+      "city": "Zeist",
+      "size": "50",
+      "price": "900",
+      "condition": "fully-furnished",
+      "type": "appartment",
+      "id": 9
+    },
+    {
+      "city": "Zeist",
+      "size": "120",
+      "price": "1500",
+      "condition": "fully-furnished",
+      "type": "house",
+      "id": 10
+    },
+    {
+      "zipcode": "3837GM",
+      "city": "Eindhoven",
+      "size": "25",
+      "price": "400",
+      "condition": "equipped",
+      "type": "studio",
+      "id": 11
+    },
+    {
+      "zipcode": "3456GB",
+      "city": "Zeist",
+      "size": "150",
+      "price": "1800",
+      "condition": "equipped",
+      "type": "cottage",
+      "id": 12
+    },
+    {
+      "city": "Roterdam",
+      "size": "30",
+      "price": "500",
+      "condition": "equipped",
+      "type": "studio",
+      "id": 13
+    },
+    {
+      "zipcode": "3454YT",
+      "city": "Amersfort",
+      "size": "45",
+      "price": "900",
+      "condition": "fully-furnished",
+      "type": "appartment",
+      "id": 14
+    },
+    {
+      "city": "Deft",
+      "size": "20",
+      "price": "300",
+      "condition": "fully-furnished",
+      "type": "room",
+      "id": 15
+    },
+    {
+      "city": "Deft",
+      "size": "60",
+      "price": "700",
+      "condition": "equipped",
+      "type": "appartment",
+      "id": 16
+    },
+    {
+      "zipcode": "4567TG",
+      "city": "Amersfort",
+      "size": "23",
+      "price": "120",
+      "condition": "plain",
+      "type": "room",
+      "id": 17
+    },
+    {
+      "city": "AMSTERDAM",
+      "size": "40",
+      "price": "1200",
+      "condition": "equipped",
+      "type": "room",
+      "id": 18
+    }
+  ],
+  "viewList": [
+    {
+      "city": "Utrecht",
+      "price": "1000",
+      "size": "70",
+      "type": "appartment",
+      "condition": "equipped",
+      "apId": 2,
+      "id": 1
+    },
+    {
+      "city": "Den HAgue",
+      "zipcode": "5667HG",
+      "price": "1200",
+      "size": "120",
+      "type": "house",
+      "condition": "upholstered",
+      "apId": 3,
+      "id": 2
+    },
+    {
+      "city": "Utrecht",
+      "zipcode": "3435TG",
+      "price": "1000",
+      "size": "40",
+      "type": "studio",
+      "condition": "equipped",
+      "apId": 4,
+      "id": 3
+    },
+    {
+      "city": "Woerden",
+      "zipcode": "5678FR",
+      "price": "1200",
+      "size": "150",
+      "type": "appartment",
+      "condition": "upholstered",
+      "apId": 6,
+      "id": 4
+    }
+  ]
+}
