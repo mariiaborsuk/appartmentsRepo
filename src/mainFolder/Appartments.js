@@ -15,7 +15,7 @@ function Appartments() {
   console.log(appfiltered);
   let contentList = appfiltered;
   return (
-    <div>
+    <div class="appartmentFilter">
       <Filtration />
       <div className="grid grid-cols-3 gap-10 ">{contentList}</div>
     </div>
